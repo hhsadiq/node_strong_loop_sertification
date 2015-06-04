@@ -1,3 +1,4 @@
+```
 access
 adduser    add user for specific registry
 bin        Print the folder where npm will install executables
@@ -60,3 +61,4 @@ update    update package
 version   show version
 view      show package details
 whoami    show current npm user
+```
