@@ -8,7 +8,10 @@ var net = require('net'),
          input: socket,
          output: socket
      }).on('exit', function(){
+         console.log('disconnected');
          socket.end();
+     }).on('reset', function(){
+         console.log('reseted');
      })
  }).listen(5001, function(){
      console.log('TCP Server listening on 5001')
