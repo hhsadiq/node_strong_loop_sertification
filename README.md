@@ -9,7 +9,7 @@ Strongloop Certification Exam work out
 
 ## Some additional resources
 
-  - [https://github.com/wilk/node-certification] (wilk exam work out)
+  - [wilk exam work out] (https://github.com/wilk/node-certification)
 
 ```
 1. npm commands (see npm folder)
