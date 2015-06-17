@@ -14,5 +14,7 @@ Strongloop Certification Exam work out
 ```
 1. npm commands (see npm folder)
 2. repl
+3. process
+4. socket.io
 
 ```

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+        var socket = io();
+        socket.emit('ping', {now : new Date()});
+        socket.on('pong', function (data) {
+            console.log(data);
+        });
+
+        socket.on('message', function (data) {
+            console.log('message: ');
+            console.log(data);
+        });
+
+        // console
+        //
+        // test broadcast
+        // socket.emit('broadcast', 'broadcast for others')
+        //
+        // test all
+        // socket.emit('all', 'sent to all')
+    </script>
+</head>
+<body>
+</body>
+</html>
