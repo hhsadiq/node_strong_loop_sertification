@@ -16,5 +16,7 @@ Strongloop Certification Exam work out
 2. repl
 3. process
 4. socket.io
+5. buffer
+6. errors
 
 ```
