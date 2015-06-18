@@ -18,5 +18,7 @@ Strongloop Certification Exam work out
 4. socket.io
 5. buffer
 6. errors
-
+7. eventEmitter
+8. expressjs
+9. stream
 ```
