@@ -21,4 +21,5 @@ Strongloop Certification Exam work out
 7. eventEmitter
 8. expressjs
 9. stream
+10. cluster
 ```
