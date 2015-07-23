@@ -1,4 +1,4 @@
-# strong loop сertification
+# StrongLoop сertification
 Strongloop Certification Exam work out
 
 ## Info about the exam
