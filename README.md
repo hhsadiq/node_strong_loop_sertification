@@ -11,6 +11,10 @@ Strongloop Certification Exam work out
 
   - [wilk exam work out] (https://github.com/wilk/node-certification)
 
+## 
+
+  - [StrongLoop Node Certificate] (https://drive.google.com/open?id=0BzKyQzcoOalBNXNqT2w5ZmFYN1k)
+
 ```
 1. npm commands (see npm folder)
 2. repl
